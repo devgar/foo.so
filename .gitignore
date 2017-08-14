@@ -1,0 +1,7 @@
+*.o
+*.so
+*.dll
+
+test
+main
+a.out
