@@ -1,4 +1,6 @@
 #include <iostream>
+#include <sstream>
+#include <string>
 
 class Foo
 {
@@ -12,4 +14,5 @@ public:
 
   bool isValid();
   void sayHello();
+  std::string data();
 };
